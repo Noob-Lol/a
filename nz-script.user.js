@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         insane script
-// @namespace    https://shrekis.life/OJ0BZE
+// @namespace    https://github.com/Noob-Lol
 // @version      228
 // @description  It works?
 // @author       Noob
@@ -8,6 +8,7 @@
 // @grant        none
 // @run-at       document-start
 // @icon         https://static.wikia.nocookie.net/f0e6ab88-6fb8-42c6-8ca6-7b5cfb180363/scale-to-width/370
+// @downloadURL  https://github.com/Noob-Lol/a/raw/main/nz-script.user.js
 // ==/UserScript==
 
 (function() {
